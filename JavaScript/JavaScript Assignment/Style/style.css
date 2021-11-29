@@ -1,0 +1,24 @@
+span{
+    color: red;
+}
+h1,h3{
+    text-align: center;
+}
+p{
+    display: flex;
+}
+form{
+    margin: 20px 15px 30px;
+}
+input[type="text"]{
+width: 20%;
+border: 1px solid;
+padding : 10px;
+margin-left: 10px;
+}
+#states{
+    width: 20%;
+    border: 1px solid;
+    padding : 10px;
+    margin-left: 10px; 
+}
